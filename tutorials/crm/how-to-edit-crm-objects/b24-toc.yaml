@@ -19,3 +19,5 @@ items:
     href: how-to-move-activity-between-objects.md
   - name: Как внести дату оплаты в поле сделки
     href: how-to-set-paid-date-to-deal.md
+  - name: Как объединить дубли компаний и контактов по ИНН в выбранных воронках
+    href: how-to-merge-company-contact-duplicates-by-inn-in-selected-funnels.md
