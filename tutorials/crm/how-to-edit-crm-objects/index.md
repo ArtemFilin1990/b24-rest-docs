@@ -8,3 +8,4 @@
 - [{#T}](./how-to-move-activity.md)
 - [{#T}](./how-to-move-activity-between-objects.md)
 - [{#T}](./how-to-set-paid-date-to-deal.md)
+- [{#T}](./how-to-merge-company-contact-duplicates-by-inn-in-selected-funnels.md)
